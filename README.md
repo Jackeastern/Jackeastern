@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Jackeastern
-- 👀 I’m interested in anything development
-- 🌱 I’m currently learning Nodejs and express
-- 💞️ I’m looking to collaborate on nothing I'm too busy
-- 📫 How to reach me if you are not a time waster just dm me
+- 👀 I’m interested in secure development
+- 💞️ I’m open to collaborate on things I can learn from.
+- Happy development😊👏!
 
 <!---
 Jackeastern/Jackeastern is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
